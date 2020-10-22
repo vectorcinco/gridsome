@@ -1,7 +1,7 @@
 ---
 title: en Picnic automatizamos tus leads
 abstract: escríbenos y conversemos
-image: /uploads/captura-de-pantalla-2020-10-22-a-la-s-16.18.35.png
+image: /uploads/3.webp
 author: Hugo
 date: 2020-10-22T20:55:02.933Z
 ---
